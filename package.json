@@ -1,0 +1,25 @@
+{
+  "name": "snacks_up_to_300",
+  "version": "1.0.0",
+  "description": "choose up to 300 yen for a field trip snack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gallardo16/snacks_up_to_300.git"
+  },
+  "keywords": [
+    "snacks"
+  ],
+  "author": "gallardo16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gallardo16/snacks_up_to_300/issues"
+  },
+  "homepage": "https://github.com/gallardo16/snacks_up_to_300#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
